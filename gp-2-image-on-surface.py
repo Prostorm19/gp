@@ -1,3 +1,5 @@
+# close the first window to see the main output
+
 import pygame 
 
 pygame.init()
