@@ -1,3 +1,5 @@
+// first time when adding reference, click on browse and then navigate to C: --> windows --> Microsoft.NET --> DirectX Managed Code and then select the first folder
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
